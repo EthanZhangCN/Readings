@@ -1,0 +1,3 @@
+只需要将 www.github.com/后面为代码库 改为
+
+www.github.com.cnpmjs.org/后面为代码库地址 就可以实现一键式加速。
