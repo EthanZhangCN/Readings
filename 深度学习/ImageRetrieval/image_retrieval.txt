@@ -1,1 +1,1 @@
-https://paperswithcode.com/task/image-retrieval
+https://paperswithcode.com/area/computer-vision/image-retrieval
